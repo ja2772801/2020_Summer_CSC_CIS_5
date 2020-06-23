@@ -13,9 +13,10 @@ using namespace std;
 
 //Global Constants - No Global Variables
 //Only Universal Constants, Math, Physics, Conversions, Higher Dimensions
-const float CNVACRE=43560;//43560 square feet in an acre
-const float CNVMILE=5280;//Mile = 5280 feet
-const float CNVHETR=0.404686;//Hectares per acre
+const float CNVACRE=43560.0f;//43560 square feet in an acre
+const float CNVMILE=5280.0f;//Mile = 5280 feet
+const float CNVHETR=0.404686f;//Hectares per acre
+
 //Function Prototypes
 
 //Execution Begins Here
